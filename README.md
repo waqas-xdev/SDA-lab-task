@@ -22,7 +22,7 @@ Clone the repository and navigate to the project directory.
 Compile and run Task1.java to see the observer pattern in action.
 
 
-
+///////////////////////////////////
 
 Project: task 2
 Overview
